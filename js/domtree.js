@@ -2,7 +2,7 @@ const width = 600;
 const height = 550;
 const quantity = 170;
 const types = [ 'text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox' ];
-const greetings = [ '小脑袋','傻乎乎','每天都开开心心','小乖乖','小猪头','圣诞节快乐','🐷','节日快乐','玩得开心','小猪头','生活愉快', '圣诞节快乐','节日快乐','祝一切顺利','节日的问候','心想事成','生活愉快','🐷' ];
+const greetings = [ '小脑袋','傻乎乎','每天都开开心心','小乖乖','小猪头','圣诞节快乐','小猫咪','节日快乐','玩得开心','小猪头','生活愉快', '圣诞节快乐','节日快乐','祝一切顺利','节日的问候','心想事成','生活愉快','小猪头' ];
 
 let tree = document.querySelector( '.tree' ),
 treeRotation = 0;
